@@ -13,7 +13,7 @@
 .first-row-1-2 {
 	width: calc(50% - 10px);
 	margin: 5px;
-	background-color: #AFDFBF;
+	background-color: red;
 	height: 150px;
 	display: inline-block;
 }
